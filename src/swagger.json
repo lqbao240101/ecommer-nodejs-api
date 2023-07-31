@@ -5,7 +5,7 @@
     "version": "1.0",
     "title": "Node API"
   },
-  "host": "localhost:8000",
+  "host": "ecommerce-nodejs-api.onrender.com",
   "basePath": "/",
   "tags": [
     {
